@@ -1,0 +1,14 @@
+[
+  {
+    name:"pixelmaster",                           // Dapp名称
+    icon:"icon url",                              // Dapp图标
+    abstract:"这是一段简要介绍",                   // Dapp简介
+    intro:"这是一段详细介绍，可使用html片段",       // Dapp详细介绍
+    url:"https://pixelmaster.io/",               // Dapp跳转地址
+    author:"作者名称",                            // Dapp作者
+    images:[                                     // 轮播图url，最多可放5张图片用以宣传 
+      "https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/05/EOSIO-1.0-678x381.png",
+      "https://3mgj4y44nc15fnv8d303d8zb-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/EOS-Unveils-EOSIO-V11-696x449.jpg"
+    ]
+  }
+]
