@@ -6,7 +6,7 @@
     "intro":"这是一段详细介绍，可使用html片段",       
     "url":"https://pixelmaster.io/",               
     "author":"作者名称",                          
-    "images":[     // 轮播图图片url，最多播放5张                                 
+    "images":[                             
       "https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/05/EOSIO-1.0-678x381.png",
       "https://3mgj4y44nc15fnv8d303d8zb-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/EOS-Unveils-EOSIO-V11-696x449.jpg"
     ]
